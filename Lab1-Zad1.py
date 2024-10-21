@@ -5,7 +5,7 @@ print(type(3 / 2))      # "/" Dzielenie zmiennoprzecinkowe
 print(type(4 / 2))      # "/" Dzielenie zmiennoprzecinkowe
 print(type(3 // 2))     # "//" Dzielenie całkowite
 print(type(-3 // 2))    # "//" Dzielenie całkowite
-print(type(11 % 2))     # % Reszta z dzielenia
+print(type(11 % 2))     # "%" Reszta z dzielenia
 print(type(2 ** 10))    # "**" Potęgowanie
 print(type(8 ** (1/3))) # "**" Potęgowanie
 
